@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @maximilien-noal
+- 👀 I’m interested in Free/Libre Open Source Software Development
+- 🌱 I’ve got a lot of experience in .NET, and a little bit with C++
+- 💞️ I’m currently working on OpenRakis.
