@@ -1,8 +1,8 @@
 <p>
 
 - 👀 I’m interested in Free/Libre Open Source Software Development
-- 🌱 I’ve got a lot of experience in .NET, and a little bit with C++
-- ☁  I have also significant experience with both AWS and Azure Clouds.
+- 🌱 I’ve got a lot of experience with .NET, and a little bit with C++
+- ☁  I also have significant experience with both AWS and Azure Clouds.
 - 💞️ I’m currently working on OpenRakis.
 
 </p>
